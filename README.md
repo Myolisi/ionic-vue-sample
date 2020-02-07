@@ -1,6 +1,6 @@
 # vue-ionic sample project
 
-##About
+## About
 This is a simple ionic-vue app that uses axios to do a simple api call to [official_joke_api](https://github.com/15Dkatz/official_joke_api)
 
 ## Project setup
