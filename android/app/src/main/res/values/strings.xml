@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">jokesapi</string>
+    <string name="title_activity_main">jokesapi</string>
+    <string name="package_name">com.myolisi.jokesapi</string>
+    <string name="custom_url_scheme">com.myolisi.jokesapi</string>
+</resources>
