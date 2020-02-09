@@ -1,0 +1,8 @@
+{
+  "appId": "com.myolisi.jokesapi",
+  "appName": "jokesapi",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "cordova": {}
+}
